@@ -1,3 +1,0 @@
-# hello-world
-My first repository
-Add an optional extanded description...
